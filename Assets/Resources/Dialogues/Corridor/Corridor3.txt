@@ -1,0 +1,11 @@
+<TOP_LEFT>>0.7,1
+<BOTTOM_RIGHT>>0.95,0.64
+<HEADER>>
+<FONT_SIZE>>24
+<CONTENT_START>>
+Not releasing the hostage will result in your untimely deactivation.
+<QUICK_EVENT_KEY>>None
+<EVENT_TIME>>4
+<CONTENT_END>>
+<BLOCK>>False
+<BACKGROUND>>False

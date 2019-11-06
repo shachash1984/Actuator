@@ -1,0 +1,11 @@
+<TOP_LEFT>>0.6,0.6
+<BOTTOM_RIGHT>>0.9,0.34
+<HEADER>>Doctor Ryhne
+<FONT_SIZE>>24
+<CONTENT_START>>
+I suggest you watch your tongue. High blood pressure is particularly hazardous under your condition, especially considering all this electronic gear stuck in your brain.
+<CONTENT_END>>
+<CONTENT_START>>
+God forbid the army discovers James Hemming, the decorated lieutenant, has taken the first step towards unauthorized cybernetic enhancement.
+<CONTENT_END>>
+<BLOCK>>True

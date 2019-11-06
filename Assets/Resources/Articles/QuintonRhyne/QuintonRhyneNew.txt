@@ -1,0 +1,19 @@
+<WINDOW_TOP_LEFT>>0.1,0.79
+<WINDOW_BOTTOM_RIGHT>>0.75,0.3
+<SEARCH>>DoctorQuintonRhyne
+<FONT_SIZE>>20
+<ARTICLE_START>>
+<ARTICLE_TOP_LEFT>>0.05,0.75
+<ARTICLE_BOTTOM_RIGHT>>0.4,0.3
+<CONTENT_START>>
+"...Quinton J. Rhyne, PhD., is presently a professor of Neurobiology in the department of Neurobiology at Liberman Medical Center. After serving as the associate director of the NZU Neuroscience Institute, Julius Crux Professor of Neuroscience and Cell Regeneration. Dr. Rhyne has published over <color=cyan><b>26</b></color>,  papers in high-impact journals in the fields of neurobiology, <color=cyan><b>nanocell chemistry</b></color>,  and operando animal testing..." 
+<CONTENT_END>>
+<ARTICLE_END>>
+<ARTICLE_START>>
+<ARTICLE_TOP_LEFT>>0.45,0.9
+<ARTICLE_BOTTOM_RIGHT>>0.9,0.1
+<CONTENT_START>>
+"...In February, a world-renowned researcher went for an early-morning jog before work on the Amber Coast. But, in a freak accident, Professor Quinton Rhyne was pulled unconscious from the sea and rushed to emergency. He had broken his C1 and C2 vertebrae and suffered a complete spinal cord injury. Following three months in ICU, he has moved into the long rehabilitation phase. However, with the support of his wife and daughter, Elizbeth and Ellie, he is expected to make an early recovery..."
+<CONTENT_END>>
+<INTERACTIVE>>26
+<ARTICLE_END>>

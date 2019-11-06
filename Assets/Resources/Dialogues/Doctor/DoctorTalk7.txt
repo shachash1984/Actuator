@@ -1,0 +1,8 @@
+<TOP_LEFT>>0.6,0.6
+<BOTTOM_RIGHT>>0.9,0.45
+<HEADER>>Doctor Ryhne
+<FONT_SIZE>>24
+<CONTENT_START>>
+How- How do you know all of this? I swear, I had nothing to do with your- your predicament.
+<CONTENT_END>>
+<BLOCK>>False

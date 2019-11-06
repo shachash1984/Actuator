@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NPC
+  - Ground
+  - ActiveMessage
+  - InactiveMessage
+  - DEBUG
+  - DoorToHostageRoom
+  - MainRoom
+  - Corridor
+  - HostageRoom
+  - ActiveArticle
+  - InactiveArticle
+  - SearchField
+  - DataBasePanel
+  - Obstacle
+  - Speakable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Environment
+  - Player
+  - Ground
+  - NPC
+  - Door
+  - Crowd
+  - Kidnapper
+  - Wall
+  - CorridorTrigger
+  - Interactable
+  - VideoMainMenu
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

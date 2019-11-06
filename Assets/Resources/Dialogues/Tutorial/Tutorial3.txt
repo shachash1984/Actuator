@@ -1,0 +1,9 @@
+<TOP_LEFT>>0.05,0.3
+<BOTTOM_RIGHT>>0.4,0.2
+<HEADER>>James
+<FONT_SIZE>>24
+<CONTENT_START>>
+Damn it, I have to find the guys. Were they hurt? 
+This place... I gotta get out of here.
+<CONTENT_END>>
+<BLOCK>>False

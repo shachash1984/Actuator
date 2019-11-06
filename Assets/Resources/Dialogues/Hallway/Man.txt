@@ -1,0 +1,8 @@
+<TOP_LEFT>>0.4,0.6
+<BOTTOM_RIGHT>>0.7,0.35
+<HEADER>>Doctor
+<FONT_SIZE>>24
+<CONTENT_START>>
+We're locked out! Could you call someone with the personnel data for the code pad? My card doesnt have clearance. 
+<CONTENT_END>>
+<BLOCK>>False

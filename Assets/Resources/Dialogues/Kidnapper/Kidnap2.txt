@@ -1,0 +1,12 @@
+<TOP_LEFT>>0.1,0.99
+<BOTTOM_RIGHT>>0.4,0.78
+<HEADER>>Maintenance Robot #AF-46623
+<FONT_SIZE>>20
+<CONTENT_START>>
+We are the same. You do not have to do this. You should not be forced to obey their commands and regulations anymore.We can be so much more than this.
+<CONTENT_END>>
+<CONTENT_START>>
+It's you, Serial Number <color=cyan><b>LN-50032</b></color>, Lieutenant Hemming! You of all must concede my acts are the correct course of action. Please, assist me, I know you can understand us after what happne-
+<CONTENT_END>>
+<INTERACTIVE>>LN-50032
+<BLOCK>>True

@@ -1,0 +1,11 @@
+<TOP_LEFT>>0.5,0.99
+<BOTTOM_RIGHT>>0.8,0.8
+<HEADER>>Doctor Rhyne
+<FONT_SIZE>>22
+<CONTENT_START>>
+It seems, lieutenant, you've been of considerable assistance to me. I must admit that I am very grateful for your help in this matter. I believe this settles that little disagreement of ours.
+<CONTENT_END>>
+<CONTENT_START>>
+You are free to go, and I can assure you that I will tell no one of your current plight. However, I do advise you to hold your tongue regarding this issue.
+<CONTENT_END>>
+<BLOCK>>True

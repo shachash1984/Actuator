@@ -1,0 +1,6 @@
+<TOP_LEFT>>0.13,0.77
+<BOTTOM_RIGHT>>0.29,0.68
+<HEADER>>Guest
+<CONTENT_START>>
+I can't believe that in a company this size, you have to wait so long to get a tour...
+<CONTENT_END>>

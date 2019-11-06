@@ -1,0 +1,17 @@
+<WINDOW_TOP_LEFT>>0.05,0.79
+<WINDOW_BOTTOM_RIGHT>>0.75,0.3
+<SEARCH>>DoctorQuintonRhyne
+<FONT_SIZE>>14
+<ARTICLE_START>>
+<ARTICLE_TOP_LEFT>>0.1,0.8
+<ARTICLE_BOTTOM_RIGHT>>0.4,0.4
+<CONTENT_START>>
+A chip is transplanted into the subject's brain stem. controlling core desicions
+<CONTENT_END>>
+<ARTICLE_END>>
+<ARTICLE_START>>
+<ARTICLE_TOP_LEFT>>0.5,0.8
+<ARTICLE_BOTTOM_RIGHT>>0.9,0.1
+<IMAGE>>QuintonRhyne/chip
+<INTERACTIVE>>Binary to Decimal
+<ARTICLE_END>>

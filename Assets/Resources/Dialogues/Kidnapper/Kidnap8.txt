@@ -1,0 +1,8 @@
+<TOP_LEFT>>0.4,0.6
+<BOTTOM_RIGHT>>0.6,0.4
+<HEADER>>James
+<FONT_SIZE>>22
+<CONTENT_START>>
+With pleasure, just make sure to scrub my medical record and you'll never see me again.
+<CONTENT_END>>
+<BLOCK>>True

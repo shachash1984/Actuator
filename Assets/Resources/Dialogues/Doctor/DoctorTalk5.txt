@@ -1,0 +1,10 @@
+<TOP_LEFT>>0.2,0.5
+<BOTTOM_RIGHT>>0.5,0.25
+<HEADER>>James
+<FONT_SIZE>>24
+<CONTENT_START>>
+...
+<CONTENT_END>>
+<ANSWER>>I wouldn't take that note up with me, Doctor Rhyne.
+<ANSWER>>Cybernetic enhancement? What the hell did you do to me?
+<BLOCK>>True

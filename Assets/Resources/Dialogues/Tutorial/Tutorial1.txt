@@ -1,0 +1,13 @@
+<TOP_LEFT>>0.05,0.3
+<BOTTOM_RIGHT>>0.43,0.2
+<HEADER>>James
+<FONT_SIZE>>24
+<CONTENT_START>>
+Where am I? ... A hospital? But I feel fine. 
+What am I even doing here? 
+<CONTENT_END>>
+<CONTENT_START>>
+Something's wrong with my eyes, and not just that.
+Everything feels so...different.
+<CONTENT_END>>
+<BLOCK>>True

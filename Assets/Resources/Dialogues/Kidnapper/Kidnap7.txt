@@ -1,0 +1,11 @@
+<TOP_LEFT>>0.5,0.99
+<BOTTOM_RIGHT>>0.8,0.8
+<HEADER>>Doctor Rhyne
+<FONT_SIZE>>22
+<CONTENT_START>>
+You there, Security Can! Get rid of this junk. And don't bother notifying the police. I believe you have more pressing matters on your hands, so this might be a good time for you to take your leave. 
+<CONTENT_END>>
+<CONTENT_START>>
+I don't think there any need for us to deliberate on your predicament any further. So long lieutenant.
+<CONTENT_END>>
+<BLOCK>>True

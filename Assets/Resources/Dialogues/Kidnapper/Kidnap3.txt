@@ -1,0 +1,9 @@
+<TOP_LEFT>>0.4,0.6
+<BOTTOM_RIGHT>>0.6,0.5
+<FONT_SIZE>>24
+<CONTENT_START>>
+Press These Buttons to shoot:
+<QUICK_EVENT_KEY>>W,Q
+<EVENT_TIME>>5
+<CONTENT_END>>
+<BLOCK>>True

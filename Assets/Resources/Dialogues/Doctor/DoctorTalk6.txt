@@ -1,0 +1,11 @@
+<TOP_LEFT>>0.2,0.5
+<BOTTOM_RIGHT>>0.55,0.3
+<HEADER>>James
+<FONT_SIZE>>24
+<CONTENT_START>>
+It'd be a shame if I had to put these decorated lieutenant skills to use and pay a visit to your charming wife Elizabeth and precious daughter Ellie...
+<CONTENT_END>>
+<CONTENT_START>>
+On the other hand, I'd be grateful if you could help me figure out who's responsible for these illegal procedures you mentioned.
+<CONTENT_END>>
+<BLOCK>>True

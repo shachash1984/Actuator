@@ -1,0 +1,10 @@
+<TOP_LEFT>>0.65,0.6
+<BOTTOM_RIGHT>>0.75,0.5
+<HEADER>>Doctor Ryhne
+<FONT_SIZE>>24
+<CONTENT_START>>
+<b>What's that noise?!</b>
+<QUICK_EVENT_KEY>>None
+<EVENT_TIME>>3
+<CONTENT_END>>
+<BLOCK>>False

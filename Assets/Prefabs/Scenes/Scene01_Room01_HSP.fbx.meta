@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: 7f9d6a703c3612441ba7c2d3bda45d0c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Door_JamesRoom
+    100002: Door_KidnapRoom
+    100004: Doors_JamesRoom
+    100006: Doors_JamesRoom 1
+    100008: Hall
+    100010: JamesRoom
+    100012: KidnapRoom
+    100014: MedicalChart_JamesRoom
+    100016: //RootNode
+    100018: Scene01_Room01_HSP_Bed_Hall
+    100020: Scene01_Room01_HSP_Bed_JamesRoom
+    100022: Scene01_Room01_HSP_Bed_KidnapRoom
+    100024: Scene01_Room01_HSP_Cart_JamesRoom
+    100026: Scene01_Room01_HSP_CellingBreak01_JamesRoom
+    100028: Scene01_Room01_HSP_Chair_JamesRoom
+    100030: Scene01_Room01_HSP_Closet_JamesRoom
+    100032: Scene01_Room01_HSP_Door01_Hall
+    100034: Scene01_Room01_HSP_Door02_Hall
+    100036: Scene01_Room01_HSP_Door_L_JamesRoom
+    100038: Scene01_Room01_HSP_Door_L_JamesRoom 1
+    100040: Scene01_Room01_HSP_Door_R_JamesRoom
+    100042: Scene01_Room01_HSP_Door_R_JamesRoom 1
+    100044: Scene01_Room01_HSP_DoorPost_Back_JamesRoom
+    100046: Scene01_Room01_HSP_DoorPost_Back_JamesRoom 1
+    100048: Scene01_Room01_HSP_DoorPost_Front_JamesRoom
+    100050: Scene01_Room01_HSP_DoorPost_Front_JamesRoom 1
+    100052: Scene01_Room01_HSP_Floor_Hall
+    100054: Scene01_Room01_HSP_Floor_JamesRoom
+    100056: Scene01_Room01_HSP_Floor_KidnapRoom
+    100058: Scene01_Room01_HSP_Lockspads_Hall
+    100060: Scene01_Room01_HSP_MedicalChartConsole_JamesRoom
+    100062: Scene01_Room01_HSP_MedicalChartScreen_JamesRoom1
+    100064: Scene01_Room01_HSP_Screen_KidnapRoom
+    100066: Scene01_Room01_HSP_Table_KidnapRoom
+    100068: Scene01_Room01_HSP_Wall01_JamesRoom
+    100070: Scene01_Room01_HSP_Wall01_KidnapRoom
+    100072: Scene01_Room01_HSP_Wall02__KidnapRoom
+    100074: Scene01_Room01_HSP_Wall02_JamesRoom
+    100076: Scene01_Room01_HSP_Wall_Hall
+    400000: Door_JamesRoom
+    400002: Door_KidnapRoom
+    400004: Doors_JamesRoom
+    400006: Doors_JamesRoom 1
+    400008: Hall
+    400010: JamesRoom
+    400012: KidnapRoom
+    400014: MedicalChart_JamesRoom
+    400016: //RootNode
+    400018: Scene01_Room01_HSP_Bed_Hall
+    400020: Scene01_Room01_HSP_Bed_JamesRoom
+    400022: Scene01_Room01_HSP_Bed_KidnapRoom
+    400024: Scene01_Room01_HSP_Cart_JamesRoom
+    400026: Scene01_Room01_HSP_CellingBreak01_JamesRoom
+    400028: Scene01_Room01_HSP_Chair_JamesRoom
+    400030: Scene01_Room01_HSP_Closet_JamesRoom
+    400032: Scene01_Room01_HSP_Door01_Hall
+    400034: Scene01_Room01_HSP_Door02_Hall
+    400036: Scene01_Room01_HSP_Door_L_JamesRoom
+    400038: Scene01_Room01_HSP_Door_L_JamesRoom 1
+    400040: Scene01_Room01_HSP_Door_R_JamesRoom
+    400042: Scene01_Room01_HSP_Door_R_JamesRoom 1
+    400044: Scene01_Room01_HSP_DoorPost_Back_JamesRoom
+    400046: Scene01_Room01_HSP_DoorPost_Back_JamesRoom 1
+    400048: Scene01_Room01_HSP_DoorPost_Front_JamesRoom
+    400050: Scene01_Room01_HSP_DoorPost_Front_JamesRoom 1
+    400052: Scene01_Room01_HSP_Floor_Hall
+    400054: Scene01_Room01_HSP_Floor_JamesRoom
+    400056: Scene01_Room01_HSP_Floor_KidnapRoom
+    400058: Scene01_Room01_HSP_Lockspads_Hall
+    400060: Scene01_Room01_HSP_MedicalChartConsole_JamesRoom
+    400062: Scene01_Room01_HSP_MedicalChartScreen_JamesRoom1
+    400064: Scene01_Room01_HSP_Screen_KidnapRoom
+    400066: Scene01_Room01_HSP_Table_KidnapRoom
+    400068: Scene01_Room01_HSP_Wall01_JamesRoom
+    400070: Scene01_Room01_HSP_Wall01_KidnapRoom
+    400072: Scene01_Room01_HSP_Wall02__KidnapRoom
+    400074: Scene01_Room01_HSP_Wall02_JamesRoom
+    400076: Scene01_Room01_HSP_Wall_Hall
+    2100000: lambert1
+    2100002: Scene01_HSP_BedChair_EndModel_lambert2
+    2100004: lambert3
+    2300000: Scene01_Room01_HSP_Bed_Hall
+    2300002: Scene01_Room01_HSP_Bed_JamesRoom
+    2300004: Scene01_Room01_HSP_Bed_KidnapRoom
+    2300006: Scene01_Room01_HSP_Cart_JamesRoom
+    2300008: Scene01_Room01_HSP_CellingBreak01_JamesRoom
+    2300010: Scene01_Room01_HSP_Chair_JamesRoom
+    2300012: Scene01_Room01_HSP_Closet_JamesRoom
+    2300014: Scene01_Room01_HSP_Door01_Hall
+    2300016: Scene01_Room01_HSP_Door02_Hall
+    2300018: Scene01_Room01_HSP_Door_L_JamesRoom
+    2300020: Scene01_Room01_HSP_Door_L_JamesRoom 1
+    2300022: Scene01_Room01_HSP_Door_R_JamesRoom
+    2300024: Scene01_Room01_HSP_Door_R_JamesRoom 1
+    2300026: Scene01_Room01_HSP_DoorPost_Back_JamesRoom
+    2300028: Scene01_Room01_HSP_DoorPost_Back_JamesRoom 1
+    2300030: Scene01_Room01_HSP_DoorPost_Front_JamesRoom
+    2300032: Scene01_Room01_HSP_DoorPost_Front_JamesRoom 1
+    2300034: Scene01_Room01_HSP_Floor_Hall
+    2300036: Scene01_Room01_HSP_Floor_JamesRoom
+    2300038: Scene01_Room01_HSP_Floor_KidnapRoom
+    2300040: Scene01_Room01_HSP_Lockspads_Hall
+    2300042: Scene01_Room01_HSP_MedicalChartConsole_JamesRoom
+    2300044: Scene01_Room01_HSP_MedicalChartScreen_JamesRoom1
+    2300046: Scene01_Room01_HSP_Screen_KidnapRoom
+    2300048: Scene01_Room01_HSP_Table_KidnapRoom
+    2300050: Scene01_Room01_HSP_Wall01_JamesRoom
+    2300052: Scene01_Room01_HSP_Wall01_KidnapRoom
+    2300054: Scene01_Room01_HSP_Wall02__KidnapRoom
+    2300056: Scene01_Room01_HSP_Wall02_JamesRoom
+    2300058: Scene01_Room01_HSP_Wall_Hall
+    3300000: Scene01_Room01_HSP_Bed_Hall
+    3300002: Scene01_Room01_HSP_Bed_JamesRoom
+    3300004: Scene01_Room01_HSP_Bed_KidnapRoom
+    3300006: Scene01_Room01_HSP_Cart_JamesRoom
+    3300008: Scene01_Room01_HSP_CellingBreak01_JamesRoom
+    3300010: Scene01_Room01_HSP_Chair_JamesRoom
+    3300012: Scene01_Room01_HSP_Closet_JamesRoom
+    3300014: Scene01_Room01_HSP_Door01_Hall
+    3300016: Scene01_Room01_HSP_Door02_Hall
+    3300018: Scene01_Room01_HSP_Door_L_JamesRoom
+    3300020: Scene01_Room01_HSP_Door_L_JamesRoom 1
+    3300022: Scene01_Room01_HSP_Door_R_JamesRoom
+    3300024: Scene01_Room01_HSP_Door_R_JamesRoom 1
+    3300026: Scene01_Room01_HSP_DoorPost_Back_JamesRoom
+    3300028: Scene01_Room01_HSP_DoorPost_Back_JamesRoom 1
+    3300030: Scene01_Room01_HSP_DoorPost_Front_JamesRoom
+    3300032: Scene01_Room01_HSP_DoorPost_Front_JamesRoom 1
+    3300034: Scene01_Room01_HSP_Floor_Hall
+    3300036: Scene01_Room01_HSP_Floor_JamesRoom
+    3300038: Scene01_Room01_HSP_Floor_KidnapRoom
+    3300040: Scene01_Room01_HSP_Lockspads_Hall
+    3300042: Scene01_Room01_HSP_MedicalChartConsole_JamesRoom
+    3300044: Scene01_Room01_HSP_MedicalChartScreen_JamesRoom1
+    3300046: Scene01_Room01_HSP_Screen_KidnapRoom
+    3300048: Scene01_Room01_HSP_Table_KidnapRoom
+    3300050: Scene01_Room01_HSP_Wall01_JamesRoom
+    3300052: Scene01_Room01_HSP_Wall01_KidnapRoom
+    3300054: Scene01_Room01_HSP_Wall02__KidnapRoom
+    3300056: Scene01_Room01_HSP_Wall02_JamesRoom
+    3300058: Scene01_Room01_HSP_Wall_Hall
+    4300000: Scene01_Room01_HSP_Floor_JamesRoom
+    4300002: Scene01_Room01_HSP_Wall02_JamesRoom
+    4300004: Scene01_Room01_HSP_Wall01_JamesRoom
+    4300006: Scene01_Room01_HSP_CellingBreak01_JamesRoom
+    4300008: Scene01_Room01_HSP_Cart_JamesRoom
+    4300010: Scene01_Room01_HSP_Closet_JamesRoom
+    4300012: Scene01_Room01_HSP_Chair_JamesRoom
+    4300014: Scene01_Room01_HSP_Bed_JamesRoom
+    4300016: Scene01_Room01_HSP_MedicalChartConsole_JamesRoom
+    4300018: Scene01_Room01_HSP_MedicalChartScreen_JamesRoom1
+    4300020: Scene01_Room01_HSP_DoorPost_Front_JamesRoom
+    4300022: Scene01_Room01_HSP_Door_R_JamesRoom
+    4300024: Scene01_Room01_HSP_Door_L_JamesRoom
+    4300026: Scene01_Room01_HSP_DoorPost_Back_JamesRoom
+    4300028: Scene01_Room01_HSP_Wall01_KidnapRoom
+    4300030: Scene01_Room01_HSP_Floor_KidnapRoom
+    4300032: Scene01_Room01_HSP_Wall02__KidnapRoom
+    4300034: Scene01_Room01_HSP_DoorPost_Front_JamesRoom
+    4300036: Scene01_Room01_HSP_Door_R_JamesRoom
+    4300038: Scene01_Room01_HSP_Door_L_JamesRoom
+    4300040: Scene01_Room01_HSP_DoorPost_Back_JamesRoom
+    4300042: Scene01_Room01_HSP_Screen_KidnapRoom
+    4300044: Scene01_Room01_HSP_Bed_KidnapRoom
+    4300046: Scene01_Room01_HSP_Table_KidnapRoom
+    4300048: Scene01_Room01_HSP_Lockspads_Hall
+    4300050: Scene01_Room01_HSP_Bed_Hall
+    4300052: Scene01_Room01_HSP_Floor_Hall
+    4300054: Scene01_Room01_HSP_Wall_Hall
+    4300056: Scene01_Room01_HSP_Door02_Hall
+    4300058: Scene01_Room01_HSP_Door01_Hall
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 10
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

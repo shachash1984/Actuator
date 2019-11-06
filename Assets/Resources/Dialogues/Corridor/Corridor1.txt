@@ -1,0 +1,11 @@
+<TOP_LEFT>>0.4,1
+<BOTTOM_RIGHT>>0.7,0.78
+<HEADER>>
+<FONT_SIZE>>24
+<CONTENT_START>>
+Your location is currently targeted by multiple security units.
+<QUICK_EVENT_KEY>>None
+<EVENT_TIME>>3
+<CONTENT_END>>
+<BLOCK>>False
+<BACKGROUND>>False

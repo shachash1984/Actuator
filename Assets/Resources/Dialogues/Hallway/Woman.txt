@@ -1,0 +1,8 @@
+<TOP_LEFT>>0.3,0.6
+<BOTTOM_RIGHT>>0.55,0.4
+<HEADER>>Nurse
+<FONT_SIZE>>24
+<CONTENT_START>>
+One of those robots just went crazy! Doctor Rhyne just ran straight in there. I hope he is ok...
+<CONTENT_END>>
+<BLOCK>>False

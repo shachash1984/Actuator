@@ -1,0 +1,8 @@
+<TOP_LEFT>>0.2,0.5
+<BOTTOM_RIGHT>>0.47,0.49
+<HEADER>>James
+<FONT_SIZE>>24
+<CONTENT_START>>
+You son of a bitch, how dare you-
+<CONTENT_END>>
+<BLOCK>>True

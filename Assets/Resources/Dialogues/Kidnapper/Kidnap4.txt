@@ -1,0 +1,11 @@
+<TOP_LEFT>>0.5,0.99
+<BOTTOM_RIGHT>>0.85,0.8
+<HEADER>>Doctor Rhyne
+<FONT_SIZE>>20
+<CONTENT_START>>
+Thank you, officer! If it hadn't been for you, that mad robot would have killed me! 
+<CONTENT_END>>
+<CONTENT_START>>
+Oh god, I have to get out of here as soon as possible. I guess the rumors of those cyber-terrorists were true after all...
+<CONTENT_END>>
+<BLOCK>>True

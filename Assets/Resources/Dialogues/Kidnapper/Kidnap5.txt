@@ -1,0 +1,8 @@
+<TOP_LEFT>>0.5,0.7
+<BOTTOM_RIGHT>>0.7,0.6
+<HEADER>>Security Robot #G-54159
+<FONT_SIZE>>20
+<CONTENT_START>>
+Lieutenant, We will deal with disposal of this piece of junk.
+<CONTENT_END>>
+<BLOCK>>True
